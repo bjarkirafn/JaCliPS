@@ -1,0 +1,6 @@
+somevalues
+that
+should
+be
+an
+array
